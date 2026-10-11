@@ -1,0 +1,6 @@
+Flask
+Flask-login
+pymysql
+Werkzeug
+Flask-SQLAlchemy
+datetime
